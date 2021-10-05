@@ -1,2 +1,4 @@
-# hiimseoll
-HI!
+# 
+
+
+Majoring IoT in Hallym Univ.
